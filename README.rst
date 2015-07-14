@@ -5,6 +5,7 @@ django-oauth2-provider
 
 *django-oauth2-provider* is a Django application that provides
 customizable OAuth2\-authentication for your Django projects.
+This fork implements the necessary changes to work with Django 1.7+
 
 `Documentation <http://readthedocs.org/docs/django-oauth2-provider/en/latest/>`_
 
